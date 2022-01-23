@@ -1,0 +1,16 @@
+body{
+    color: crimson;
+    background-color:gold;
+ }
+ .heading{
+     width: 80%;
+     font-size: 22px;
+ }
+ #camera{
+     border: 2px dashed rgb(14, 118, 216);
+     width: 350px;
+     height: 300px;
+ }
+ .name_of_object,#result_object_name,#result_object_accuracy{
+     color: darkblue;
+ }
